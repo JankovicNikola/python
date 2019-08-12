@@ -42,3 +42,6 @@ print(type(i))
 
 bin(10)
 print(oct(10))
+
+
+
